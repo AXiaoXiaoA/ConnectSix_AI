@@ -1,5 +1,5 @@
 # connectSix_AI
-### 吉林大学2021级数据结构课程设计
+### 吉林大学软件学院2021级数据结构课程设计
 题目：赛道B——六子棋编程对抗赛（详见“[2023-Track AB题目.pdf](https://github.com/wulixinlaimujijia/connectSix_AI/blob/ba052bcb4b66ae910f641e332dfba1e29c04ba88/2023-Track%20AB%E9%A2%98%E7%9B%AE.pdf)”）  
 
 参考文献：详见“[参考资料](https://github.com/wulixinlaimujijia/connectSix_AI/tree/ba052bcb4b66ae910f641e332dfba1e29c04ba88/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)”
